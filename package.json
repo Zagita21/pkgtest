@@ -1,0 +1,19 @@
+{
+  "name": "pkgtst",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zagita21/pkgtest.git"
+  },
+  "author": "Z",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zagita21/pkgtest/issues"
+  },
+  "homepage": "https://github.com/Zagita21/pkgtest#readme"
+}
